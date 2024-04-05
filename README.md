@@ -1,4 +1,4 @@
-HSRW Submarine Team: Steering System Design and Manufacturing
+# HSRW Submarine Team: Steering System Design and Manufacturing
 This repository documents the design and manufacturing process of the steering system for the HSRW Submarine Team's human-powered submarine, built for the European International Submarine Races (eISR). The submarine is designed to be fully mechanical, relying on human power for propulsion and control. The steering system plays a crucial role in maneuvering the submarine through the challenging eISR race course, which includes straight sections, a sweeping turn, and a slalom course.
 Steering System Overview:
 The steering system is designed with a focus on efficiency, reliability, and ease of operation under high physical load. It utilizes a combination of mechanical linkages and control surfaces to translate the pilot's input into precise movements of the submarine.
